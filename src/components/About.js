@@ -1,9 +1,9 @@
 import React from "react";
 
-export const Footer = ()=> {
+export const About = ()=>{
     return(
         <>
-            <h1>This is Footer</h1>
+        <h1>This is About </h1>
         </>
     )
 }
